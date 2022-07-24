@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soorajharani
+- 👋 Hi, I’m Sooraj Kumar
 - 👀 I’m interested in App development using React Native
 - 🌱 I’m currently learning NestJS
 - 📫 Reach me at Soorajharani.sh@gmail.com
